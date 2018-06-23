@@ -1,0 +1,49 @@
+/*#firstname
+{
+    /*padding:20px 10px 20px 10px;*/
+    /*padding:2px;
+}
+#lastname
+{
+padding:2px;
+}
+#email
+{
+padding:2px;
+}*/
+#result
+{
+    margin-left: 5px;
+}
+#passwordchecking .short
+{
+    color:red;   
+}
+#passwordchecking .Weak
+{
+    color:blue;
+}
+#passwordchecking .good
+{
+    color:orange;
+}
+#passwordchecking .Strong
+{
+    color:green;
+}
+#employeeeidchecking .Incorrect
+{
+    color:purple;
+}
+#employeeeidchecking .correct
+{
+    color:green;
+}
+#mobilenumberchecking .IncorrectMobileNumber
+{
+    color:deeppink;
+}
+#mobilenumberchecking .Correctnumber
+{
+    color:darkblue;
+}
